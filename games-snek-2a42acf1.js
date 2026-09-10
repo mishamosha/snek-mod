@@ -727,7 +727,7 @@
                     let U = parseInt(L.A.getItem(M) || "0", 10);
                     function B() {
                         let e;
-                        if (r.length >= 400)
+                        if (r.length >= 1000)//ORIG 400
                             return void J();
                         do
                             e = {
@@ -937,7 +937,7 @@
                                     p > 0 && (s += 1,
                                     p--,
                                     t?.onScoreChange?.(s)),
-                                    b > 0 && r.length < 399 ? (r.push({
+                                    b > 0 ? (r.push({ //REMOVED length limit && r.length < 399
                                         ...r[r.length - 1]
                                     }),
                                     b--) : b > 0 && (b = 0),
