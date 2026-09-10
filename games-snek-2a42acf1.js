@@ -1,3 +1,4 @@
+console.log("SNEK GAME OVERRIDDEN");
 !function() {
     try {
         var e = "u" > typeof window ? window : "u" > typeof global ? global : "u" > typeof globalThis ? globalThis : "u" > typeof self ? self : {}
