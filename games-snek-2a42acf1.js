@@ -298,46 +298,46 @@
           , M = "snek-hi"
           , H = [{
             name: "standard",
-            points: 1,
+            points: 99, //ORIG 1
             weight: 30,
             color: "#3366ff",
             glow: "rgba(51,102,255,0.6)"
         }, {
             name: "like",
-            points: 1,
+            points: 99, //ORIG 1
             weight: 20,
             color: "#ff4930",
             glow: "rgba(255,73,48,0.6)"
         }, {
             name: "reblog",
-            points: 1,
+            points: 99, //ORIG 1
             weight: 20,
             color: "#01cf35",
             glow: "rgba(1,207,53,0.6)",
             effect: "double_length"
         }, {
             name: "comment",
-            points: 1,
+            points: 99, //ORIG 1
             weight: 20,
             color: "#00b8ff",
             glow: "rgba(0,184,255,0.6)",
             effect: "floating_text"
         }, {
             name: "blaze",
-            points: 1,
+            points: 99, //ORIG 1
             weight: 4,
             color: "#ff8a00",
             glow: "rgba(255,138,0,0.6)",
             effect: "slowdown"
         }, {
             name: "ask",
-            points: 1,
+            points: 99, //ORIG 1
             weight: 4,
             color: "#000000",
             glow: "rgba(100,100,100,0.6)"
         }, {
             name: "boop",
-            points: 1,
+            points: 99, //ORIG 1
             weight: 2,
             color: "#ff6699",
             glow: "rgba(255,102,153,0.6)",
