@@ -15,4 +15,4 @@ HOPEFUL PLANS (I'm not too familiar with JS, so it's not likely I'll get to thes
 - Link the game to a local .txt file, or even create input fields in the browser UI, so values can be customized and modifications toggled
 - Potentially eventually, create a generic version unconnected to any Tumblr account
 
-First time on Git, very open to suggestions :)
+First time on Git, very open to suggestions.
